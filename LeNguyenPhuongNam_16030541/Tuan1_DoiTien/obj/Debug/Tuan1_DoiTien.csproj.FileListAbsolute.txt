@@ -1,0 +1,17 @@
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.exe.config
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.exe
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.pdb
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.frmBaiTap2.resources
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.Properties.Resources.resources
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.csproj.GenerateResource.Cache
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.exe
+T:\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.pdb
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.exe.config
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.exe
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.pdb
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.frmBaiTap2.resources
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.Properties.Resources.resources
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.csproj.GenerateResource.cache
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.csproj.CoreCompileInputs.cache
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.exe
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.pdb

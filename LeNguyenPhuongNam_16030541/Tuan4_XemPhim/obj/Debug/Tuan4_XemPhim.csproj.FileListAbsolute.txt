@@ -1,0 +1,10 @@
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\bin\Debug\Tuan4_XemPhim.exe.config
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\bin\Debug\Tuan4_XemPhim.exe
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\bin\Debug\Tuan4_XemPhim.pdb
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\obj\Debug\Tuan4_XemPhim.csprojAssemblyReference.cache
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\obj\Debug\Tuan4_XemPhim.frmXemPhim.resources
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\obj\Debug\Tuan4_XemPhim.Properties.Resources.resources
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\obj\Debug\Tuan4_XemPhim.csproj.GenerateResource.cache
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\obj\Debug\Tuan4_XemPhim.csproj.CoreCompileInputs.cache
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\obj\Debug\Tuan4_XemPhim.exe
+C:\Users\H4-HTTT\Desktop\Soft\C_Sharp_BaiTap-master\C_Sharp_BaiTap-master\LeNguyenPhuongNam_16030541\Tuan4_XemPhim\obj\Debug\Tuan4_XemPhim.pdb

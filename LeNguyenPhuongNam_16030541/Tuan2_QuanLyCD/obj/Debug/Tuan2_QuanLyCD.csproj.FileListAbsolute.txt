@@ -1,0 +1,9 @@
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\bin\Debug\Tuan2_QuanLyCD.exe.config
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\bin\Debug\Tuan2_QuanLyCD.exe
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\bin\Debug\Tuan2_QuanLyCD.pdb
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\obj\Debug\Tuan2_QuanLyCD.frmQuanLyCD.resources
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\obj\Debug\Tuan2_QuanLyCD.Properties.Resources.resources
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\obj\Debug\Tuan2_QuanLyCD.csproj.GenerateResource.Cache
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\obj\Debug\Tuan2_QuanLyCD.exe
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\obj\Debug\Tuan2_QuanLyCD.pdb
+E:\C#_MrThang\ThayThang_BTC#1-6-20201017T135546Z-001\ThayThang_BTC#1-6\ThayThang_BTC#\LeNguyenPhuongNam_16030541\LeNguyenPhuongNam_16030541\Tuan2_QuanLyCD\obj\Debug\Tuan2_QuanLyCD.csproj.CoreCompileInputs.cache
